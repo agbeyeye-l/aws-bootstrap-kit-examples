@@ -8,7 +8,8 @@
     "email": "kofled90@gmail.com",
     "force_email_verification": true,
     "pipeline_deployable_regions": [
-      "us-east-1"
+      "us-east-1",
+      "us-east-2"
     ]
   }
 }
